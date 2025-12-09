@@ -1,5 +1,5 @@
 import React from "react";
-import WebcamFeed from "./components/webcamFeed";
+import WebcamFeed from "./components/WebcamFeed/webcamFeed";
 
 function App() {
   return (
